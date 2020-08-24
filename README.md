@@ -43,4 +43,14 @@ const raj = {
     architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
 }
 ```
+
+```text
+🌞 Morning    25 commits     ███████░░░░░░░░░░░░░░░░░░   3.55% 
+🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   7.08% 
+🌃 Evening    565 commits    █████████░░░░░░░░░░░░░░░░   63.01% 
+🌙 Night      230 commits     ██░░░░░░░░░░░░░░░░░░░░░░░  27.36%
+
+```
+
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
