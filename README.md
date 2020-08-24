@@ -5,7 +5,7 @@
 ````bash
 > help --info
 > A normal and ordinary guy who mainly programs in Java and has recently ventured out into Python. 
-> trying out ML to see what all the fuss is about and he might actually ❤ it. Likes searching about latest researches and technologies.
+> trying out ML & CV to see what all the fuss is about and he might actually ❤ it. Likes searching about latest researches and technologies.
 
 ````
 <!--
