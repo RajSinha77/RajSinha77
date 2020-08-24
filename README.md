@@ -34,13 +34,12 @@ const raj = {
     technologies:{
         backEnd: ["firebase", "node.js", "python"],
         fronEnd: ["react"],
-        mobileApp: ["ionic","angular"],
         database: ["mongo","Sql","firebase"],
-        serverless: ["aws-lambda"],
+        serverless: ["aws-lambda","firebase"],
         devOps: ["AWS", "Nginx"],
         misc: ["Firebase", "Socket.IO"]
     },
-    architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
+  
 }
 ```
 <!--
