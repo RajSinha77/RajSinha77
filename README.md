@@ -15,3 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+```javascript
+const raj = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["data analysis", "web dev", "tech"],
+    technologies:{
+        backEnd: ["firebase", "node.js", "python"],
+        fronEnd: ["react"],
+        mobileApp: ["ionic","angular"],
+        database: ["mongo","Sql","firebase"],
+        serverless: ["aws-lambda"],
+        devOps: ["AWS", "Nginx"],
+        misc: ["Firebase", "Socket.IO"]
+    },
+    architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
+}
+```
