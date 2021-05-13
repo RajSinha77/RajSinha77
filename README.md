@@ -30,14 +30,12 @@ Here are some ideas to get you started:
 ```javascript
 const raj = {
     pronouns: "He" | "Him",
-    askMeAbout: ["data analysis", "web dev", "tech"],
+    askMeAbout: ["data analysis", "Financial trading", "tech"],
     technologies:{
-        backEnd: ["firebase", "node.js", "python"],
-        fronEnd: ["react"],
+        backEnd: ["firebase", "JSP", "python"],
         database: ["mongo","Sql","firebase"],
         serverless: ["aws-lambda","firebase"],
-        devOps: ["AWS", "Nginx"],
-        misc: ["Firebase", "Socket.IO"]
+        devOps: ["AWS", "Nginx"]
     },
   
 }
