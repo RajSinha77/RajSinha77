@@ -5,6 +5,7 @@
 ````bash
 > help --info
 > A normal and ordinary guy who mainly programs in Java and has recently ventured out into Python. 
+> Working in Energy Trade & Risk Management (ETRM) team in Wipro using Openlink Endur.
 > trying out ML & CV to see what all the fuss is about and he might actually ❤ it. Likes searching about latest researches and technologies.
 
 ````
