@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ```javascript
 const raj = {
     pronouns: "He" | "Him",
-    askMeAbout: ["data analysis", "Financial trading", "tech"],
+    askMeAbout: ["data analysis", "Machine Learning", "Deep Learning"],
     technologies:{
         backEnd: ["firebase", "JSP", "python"],
         database: ["mongo","Sql","firebase"],
