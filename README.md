@@ -9,10 +9,11 @@
 > trying out ML & CV to see what all the fuss is about and he might actually ❤ it. Likes searching about latest researches and technologies.
 
 
+''''
+ RajSinha77/RajSinha77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-// RajSinha77/RajSinha77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-//Here are some ideas to get you started:
+Here are some ideas to get you started:
+''''
 
 - 🔭 I’m currently working on : Deep Learning
 - 🌱 I’m currently learning : Data Science
