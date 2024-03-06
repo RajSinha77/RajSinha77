@@ -4,7 +4,7 @@
 
 ````bash
 > help --info
-> A normal and ordinary guy who mainly programs in Java and has recently ventured out into Python. 
+> a normal guy who used to program in Java and has recently ventured out into Python. 
 > Ex SDE II now a Data Scientist.
 > trying out ML & CV to see what all the fuss is about and he might actually ❤ it. Likes searching about latest researches and technologies.
 
