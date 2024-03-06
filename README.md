@@ -5,30 +5,30 @@
 ````bash
 > help --info
 > a normal guy who used to program in Java and has recently ventured out into Python. 
-> Ex SDE II now a Data Scientist.
+> a Data Scientist.
 > trying out ML & CV to see what all the fuss is about and he might actually ❤ it. Likes searching about latest researches and technologies.
 
-````
-<!--
+
+
 **RajSinha77/RajSinha77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on : Deep Learning
+- 🌱 I’m currently learning : Data Science
+- 👯 I’m looking to collaborate on : LLMs
+- 🤔 I’m looking for help with: ______
+- 💬 Ask me about :_
+- 📫 How to reach me: Linkedin
+- 😄 Pronouns: Wikipedia
+- ⚡ Fun fact: 
+
 [![](https://img.shields.io/badge/LinkedIn-rajsinha-blue)](https://www.linkedin.com/in/raj-sinha-bit/)
 [![](https://img.shields.io/badge/Gmail-rajsinha.bits%40gmail.com-red)](mailto:rajsinha.bits@gmail.com)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
+javascript
 const raj = {
     pronouns: "He" | "Him",
     askMeAbout: ["data analysis", "Machine Learning", "Deep Learning"],
